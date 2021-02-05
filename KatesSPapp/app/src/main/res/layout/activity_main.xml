@@ -54,15 +54,6 @@
 
     </ImageView>
 
-    <EditText
-        android:id="@+id/somethingToSay"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="           Dear ! Plz Save money at anytime."
-        android:textColor="@color/carmine" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
