@@ -7,7 +7,7 @@
 
 2. the sharePreference instance got a disvantage facing data type is not String nor Int.
 
-3. the setText method of Date is called, but callback got setText method of Item !!??
+3. the setText method of Date is called, but callback comes from Item !!??
 
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_18/main/output1.png)
